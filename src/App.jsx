@@ -9,6 +9,7 @@ import {
 import { ProjectHeader } from '@helenhsong/ui'
 import '@helenhsong/ui/style.css'
 import '@fontsource/playfair-display/latin-400-italic.css'
+import '@fontsource/geist-sans/latin-500.css'
 import readme from '../README.md?raw'
 import {
   HEADER_HEIGHT,
