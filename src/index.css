@@ -120,6 +120,7 @@ html:has(.ph-project-header a[aria-expanded='true']) :is(.lace-copy, .lace-unsti
 html .ph-label {
   font-family: 'Geist Sans', system-ui, sans-serif;
   font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
 /* Copy text and Unstitch all sit in the bottom corners, in the header's
