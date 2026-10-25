@@ -6,9 +6,10 @@ html {
 html:root {
   --project-bg: #0a0a0a;
   --project-fg: #f3f3f1;
-  /* The header's links, in white. */
-  --project-muted-fg: #ffffff;
-  --project-hover-fg: #ffffff;
+  /* The corner links, a soft off-white that's easy on the eyes against
+     the dark lace (the same tone as README's body text). */
+  --project-muted-fg: #c6c6c1;
+  --project-hover-fg: #c6c6c1;
   /* Let the lace show through the fixed header, on README too. */
   --background: transparent;
   background: var(--project-bg);
