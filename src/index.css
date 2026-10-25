@@ -114,6 +114,13 @@ html:has(.ph-project-header a[aria-expanded='true']) :is(.lace-copy, .lace-unsti
   cursor: text;
 }
 
+/* The corner links (helenhsong.com, README, Copy, Unstitch all) are set
+   in Geist Sans, medium weight, as Helen asked. */
+html .ph-label {
+  font-family: 'Geist Sans', system-ui, sans-serif;
+  font-weight: 500;
+}
+
 /* Copy text and Unstitch all sit in the bottom corners, in the header's
    own type. */
 .lace-copy,
